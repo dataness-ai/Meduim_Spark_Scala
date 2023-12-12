@@ -1,4 +1,4 @@
-# Medium_Spark_Scala
+# Medium Blog post Example (Spark/Scala)
 Code associated with the Medium article: Notes about Spark internals
 
 
